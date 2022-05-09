@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic-Tac-Toe
 This is a simple Tic tac toe game in android using Android Studio
 
 ### App Screenshot
